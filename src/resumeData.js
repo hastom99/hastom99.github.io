@@ -1,36 +1,29 @@
 let resumeData = {
-    "imagebaseurl":"https://ilitteri.github.io/",
-    "name": "Ivan Litteri",
-    "role": "Estudiante de Ingeniería en Informática",
-    "email":"ilitteri@fi.uba.ar",
+    "imagebaseurl":"https://hastom99.github.io/",
+    "name": "Thomas",
+    "role": "Software Engineer Analyst en Mercado Libre",
+    "email":"thomm88@hotmail.com",
     "skypeid": "Your skypeid",
     "roleDescription": "",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/ivan-litteri-414a1418a/",
+          "url":"https://www.linkedin.com/in/thomas-mu%C3%B1oz-47a600154/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"https://github.com/ilitteri",
+          "url":"https://github.com/hastom99",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/ivanlitteri",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"Estoy cursando el segundo año de la carrera Ingeniería en Informática de la UBA, Facultad de Ingeniería. Español es mi idoma nativo, hablo inglés fluido y alemán básico. Me gustan los desafíos, hacer deporte, aprender algo nuevo todos los días y leer en mi tiempo libre.",
-    "address":"Buenos Aires, Argentina",
-    "email1":"ivanlitteri@hotmail.com",
-    "email2":"ilitteri@fi.uba.ar",
-    "number": "+54 9 11-44138660",
+    "aboutme":"Curso el segundo año de Ciencia de la computación mientras trabajo en MercadoLibre, en mis tiempos libre me dedico a programar y jugar videojuegos",
+    "address":"C.A.B.A, Argentina",
+    "email1":"thomm88@hotmail.com",
     "education":[
       {
-        "UniversityName":"Universidad de Buenos Aires, Facultad de Ingenieria",
-        "specialization":"Ingeniería en Informática",
+        "UniversityName":"Universidad de Buenos Aires, Facultad de Exactas",
+        "specialization":"Ciencia de la Computación",
         "MonthOfPassing":"",
         "YearOfPassing":"2019-Actual",
         "Achievements":"C.A.B.A."
@@ -39,39 +32,39 @@ let resumeData = {
         "UniversityName":"I.M.P.A. T.R.Q.",
         "specialization":"Técnico Aviónico",
         "MonthOfPassing":"",
-        "YearOfPassing":"2012-2018",
+        "YearOfPassing":"2011-2017",
         "Achievements":"Quilmes"
       }
     ],
     "work":[
       {
-        "CompanyName":"INVAP",
-        "specialization":"Regulamiento de planos, mantenimiento y stock.",
-        "MonthOfLeaving":"Agosto - Diciembre",
-        "YearOfLeaving":"2018",
+        "CompanyName":"Mercado Libre",
+        "specialization":"Desarrollo de la infraestructura del team search-infra en Go",
+        "MonthOfLeaving":"Agosto",
+        "YearOfLeaving":"2018 - Actual",
         "Achievements":""
       },
       {
-        "CompanyName":"Fuerza Aérrea Argentina",
-        "specialization":"Mantenimiento de dispositivos de aviónica.",
-        "MonthOfLeaving":"Marzo - Julio",
-        "YearOfLeaving":"2018",
+        "CompanyName":"Vivatia",
+        "specialization":"Programador .NET para software empresarial",
+        "MonthOfLeaving":"Diciembre - Junio",
+        "YearOfLeaving":"2018 - 2019",
         "Achievements":""
       }
     ],
     "skillsDescription":"",
     "skills":[
       {
-        "skillname": "Python"
+        "skillname": "Golang"
       },
       {
-        "skillname": "C"
+        "skillname": "Java"
       },
       {
         "skillname": "JavaScript"
       },
       {
-        "skillname": "Django"
+        "skillname": "Python"
       },
       {
         "skillname":"HTML5"
@@ -83,7 +76,7 @@ let resumeData = {
         "skillname":"Reactjs"
       },
       {
-        "skillname": "Photoshop"
+        "skillname": "SQL"
       },
     ],
     /*"portfolio":[
